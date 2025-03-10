@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           foregroundColor: Colors.white,
           backgroundColor: Colors.red,
         ),
-        body: DicePage(), // Calling a Stateless Class
+        body: DicePage(), // Calling a State-full Class
       ),
     );
   }
