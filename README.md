@@ -12,7 +12,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Setting up Flutter and Dart SDK
 - Understanding Flutter Architecture
 - Exploring Widgets and the Widget Tree
-- Dart Programming Basics
+- Dart Programming Fundamentals
 - [Checkout Our Dart Fundamentals Repository](https://github.com/Jamil226/Dart) - Covers Variables, Collections, Control Flow, Functions, and Error Handling
 
 ### UI/UX Design in Flutter
@@ -71,7 +71,13 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Continuous Integration & Deployment (CI/CD)
 - Building & Deploying Apps on Play Store & App Store
 
-### Real-World Projects & Capstone
+### Project-based Learning through Real-World Projects & Capstone
+- Portfolio App
+- Dice Game (Basic)
+- Magic Ball Game
+- Xylophone App
+- Quizzler App
+- BMI Calculator
 - UI Clones of Popular Apps (Instagram, TikTok, etc.)
 - A Complete E-Commerce App (Firebase Integration)
 - A Chat Application with Firebase & Push Notifications
@@ -94,6 +100,21 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - **State Management:** Provider, Bloc, Riverpod, GetX
 
 ---
+
+---
+## Teaching Methodology
+- **Project-based Learning
+- **Inquiry-based Learning
+- **Place-based Learning
+- **Flipped Classroom
+- **Blended Learning
+- **Audio-video Visual Aids
+- **Technology-based Learning (eLearning)
+- **Problem-based Learning
+- **Individual Learning
+
+---
+
 ## Contributions & Community
 Contributions to this repository are highly encouraged!
 - Submit issues & suggestions
