@@ -24,6 +24,21 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Responsive & Adaptive UI Design
 - Custom Fonts & Colors
 
+### Stateless and Stateful Widgets
+- Introduction to StatelessWidget
+- Introduction to StatefulWidget
+- Differences between Stateless and Stateful Widgets
+- When to use Stateless vs Stateful Widgets
+- Practical Examples and Best Practices
+- Practical Examples and Best Practices
+
+### Stateful Widget Lifecycle
+- `initState()`
+- `build()`
+- `deactivate()`
+- Practical Use Cases and Example Flows
+
+
 ### Navigation & Routing
 - Named Routes
 - Bottom Navigation Bar
