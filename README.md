@@ -30,7 +30,6 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Differences between Stateless and Stateful Widgets
 - When to use Stateless vs Stateful Widgets
 - Practical Examples and Best Practices
-- Practical Examples and Best Practices
 
 ### Stateful Widget Lifecycle
 - `initState()`
