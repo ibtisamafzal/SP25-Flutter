@@ -109,6 +109,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Xylophone App
 - Quizzler App
 - BMI Calculator
+- Clima App
 - UI Clones of Popular Apps (Instagram, TikTok, etc.)
 - A Complete E-Commerce App (Firebase Integration)
 - A Chat Application with Firebase & Push Notifications
