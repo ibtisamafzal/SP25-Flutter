@@ -88,7 +88,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Encrypted Local Storage
 
 ### Performance Optimization
-- Synchronous (sync) programming * Asynchronous (async) programming
+- Synchronous (sync) programming and Asynchronous (async) programming
 - Lazy Loading with ListView.builder
 - Image Caching Techniques
 - Efficient State Management
