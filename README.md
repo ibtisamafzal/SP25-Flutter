@@ -144,7 +144,6 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - **Individual Learning**
 
 ---
-
 ## Contributions & Community
 Contributions to this repository are highly encouraged!
 - Submit issues & suggestions
