@@ -44,6 +44,22 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - GetX
 - Comparison of State Management Techniques
 
+### Background Services
+- Understanding Background Modes in Flutter
+- Running Tasks in Background using `flutter_background_service`
+- Implementing Location Updates in Background with Accuracy (High & Low)
+- Scheduling Background Tasks with WorkManager
+- Handling Background Notifications (Push Notifications)
+
+### Runtime Permissions
+- Introduction to Runtime Permissions
+- Requesting Permissions Dynamically (Location, Camera, Storage, etc.)
+- Handling Permission Status (Granted, Denied, Permanently Denied)
+- Best Practices for Requesting Permissions
+- Using `permission_handler` package for Permission Management
+- Displaying User-Friendly Dialogs When Permissions are Denied
+
+
 ### Data Handling & Storage
 - Shared Preferences for Session Management
 - SQLite for Local Database
@@ -58,6 +74,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Encrypted Local Storage
 
 ### Performance Optimization
+- Synchronous (sync) programming * Asynchronous (async) programming
 - Lazy Loading with ListView.builder
 - Image Caching Techniques
 - Efficient State Management
@@ -103,15 +120,15 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 
 ---
 ## Teaching Methodology
-- **Project-based Learning
-- **Inquiry-based Learning
-- **Place-based Learning
-- **Flipped Classroom
-- **Blended Learning
-- **Audio-video Visual Aids
-- **Technology-based Learning (eLearning)
-- **Problem-based Learning
-- **Individual Learning
+- **Project-based Learning**
+- **Inquiry-based Learning**
+- **Place-based Learning**
+- **Flipped Classroom**
+- **Blended Learning**
+- **Audio-video Visual Aids**
+- **Technology-based Learning (eLearning)**
+- **Problem-based Learning**
+- **Individual Learning**
 
 ---
 
