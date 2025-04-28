@@ -117,8 +117,6 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - **State Management:** Provider, Bloc, Riverpod, GetX
 
 ---
-
----
 ## Teaching Methodology
 - **Project-based Learning**
 - **Inquiry-based Learning**
@@ -144,3 +142,13 @@ Contributions to this repository are highly encouraged!
 Stay tuned for regular updates, new projects, and learning challenges. Follow the repository and start your Flutter journey today!
 
 📧 For any queries, feel free to contact us at **jamil138.amin@gmail.com**.
+
+---
+## Bootcamp Credits
+
+We would like to extend our sincere thanks to **Dr. Angela Yu** for her incredible teaching and inspiration.  
+Much of the foundational content in this bootcamp is based on her course:  
+**"The Complete Flutter App Development Bootcamp with Dart"** available on Udemy.
+
+You can explore the original course resources here:  
+🔗 [Flutter Course Resources - GitHub Repository](https://github.com/londonappbrewery/Flutter-Course-Resources/)
