@@ -24,6 +24,20 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Responsive & Adaptive UI Design
 - Custom Fonts & Colors
 
+### Stateless and Stateful Widgets
+- Introduction to StatelessWidget
+- Introduction to StatefulWidget
+- Differences between Stateless and Stateful Widgets
+- When to use Stateless vs Stateful Widgets
+- Practical Examples and Best Practices
+
+### Stateful Widget Lifecycle
+- `initState()`
+- `build()`
+- `deactivate()`
+- Practical Use Cases and Example Flows
+
+
 ### Navigation & Routing
 - Named Routes
 - Bottom Navigation Bar
@@ -44,6 +58,22 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - GetX
 - Comparison of State Management Techniques
 
+### Background Services
+- Understanding Background Modes in Flutter
+- Running Tasks in Background using `flutter_background_service`
+- Implementing Location Updates in Background with Accuracy (High & Low)
+- Scheduling Background Tasks with WorkManager
+- Handling Background Notifications (Push Notifications)
+
+### Runtime Permissions
+- Introduction to Runtime Permissions
+- Requesting Permissions Dynamically (Location, Camera, Storage, etc.)
+- Handling Permission Status (Granted, Denied, Permanently Denied)
+- Best Practices for Requesting Permissions
+- Using `permission_handler` package for Permission Management
+- Displaying User-Friendly Dialogs When Permissions are Denied
+
+
 ### Data Handling & Storage
 - Shared Preferences for Session Management
 - SQLite for Local Database
@@ -58,6 +88,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Encrypted Local Storage
 
 ### Performance Optimization
+- Synchronous (sync) programming and Asynchronous (async) programming
 - Lazy Loading with ListView.builder
 - Image Caching Techniques
 - Efficient State Management
@@ -78,6 +109,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Xylophone App
 - Quizzler App
 - BMI Calculator
+- Clima App
 - UI Clones of Popular Apps (Instagram, TikTok, etc.)
 - A Complete E-Commerce App (Firebase Integration)
 - A Chat Application with Firebase & Push Notifications
@@ -100,21 +132,18 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - **State Management:** Provider, Bloc, Riverpod, GetX
 
 ---
-
----
 ## Teaching Methodology
-- **Project-based Learning
-- **Inquiry-based Learning
-- **Place-based Learning
-- **Flipped Classroom
-- **Blended Learning
-- **Audio-video Visual Aids
-- **Technology-based Learning (eLearning)
-- **Problem-based Learning
-- **Individual Learning
+- **Project-based Learning**
+- **Inquiry-based Learning**
+- **Place-based Learning**
+- **Flipped Classroom**
+- **Blended Learning**
+- **Audio-video Visual Aids**
+- **Technology-based Learning (eLearning)**
+- **Problem-based Learning**
+- **Individual Learning**
 
 ---
-
 ## Contributions & Community
 Contributions to this repository are highly encouraged!
 - Submit issues & suggestions
@@ -127,3 +156,13 @@ Contributions to this repository are highly encouraged!
 Stay tuned for regular updates, new projects, and learning challenges. Follow the repository and start your Flutter journey today!
 
 📧 For any queries, feel free to contact us at **jamil138.amin@gmail.com**.
+
+---
+## Bootcamp Credits
+
+We would like to extend our sincere thanks to **Dr. Angela Yu** for her incredible teaching and inspiration.  
+Much of the foundational content in this bootcamp is based on her course:  
+**"The Complete Flutter App Development Bootcamp with Dart"** available on Udemy.
+
+You can explore the original course resources here:  
+🔗 [Flutter Course Resources - GitHub Repository](https://github.com/londonappbrewery/Flutter-Course-Resources/)
