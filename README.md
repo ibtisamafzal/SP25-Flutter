@@ -110,6 +110,8 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Quizzler App
 - BMI Calculator
 - Clima App
+- Firebase Connection (Auth Module)
+- Flash Chat (Real-time Chat App)
 - UI Clones of Popular Apps (Instagram, TikTok, etc.)
 - A Complete E-Commerce App (Firebase Integration)
 - A Chat Application with Firebase & Push Notifications
