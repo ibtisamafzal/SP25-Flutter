@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525105516579",
+    "project_id": "class-demo-app",
+    "storage_bucket": "class-demo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525105516579:android:2f21675bf3876fa2a4a196",
+        "android_client_info": {
+          "package_name": "com.jamil.firebase_connection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhJcSqNbhCw0rpG2kW-8Dp1APxSPYytr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
