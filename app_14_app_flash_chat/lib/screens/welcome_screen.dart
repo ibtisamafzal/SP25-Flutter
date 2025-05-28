@@ -1,6 +1,6 @@
 
-import 'package:app_flash_chat/screens/login_screen.dart';
-import 'package:app_flash_chat/screens/registration_screen.dart';
+import 'package:firebase_connection_app/screens/login_screen.dart';
+import 'package:firebase_connection_app/screens/registration_screen.dart';
 import 'package:flutter/material.dart';
 
 class WelcomeScreen extends StatefulWidget {
@@ -61,7 +61,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
               padding: EdgeInsets.symmetric(vertical: 16.0),
               child: Material(
                 elevation: 5.0,
-                color: Colors.lightBlueAccent,
+                color: Colors.teal,
                 borderRadius: BorderRadius.circular(30.0),
                 child: MaterialButton(
                   onPressed: () {
@@ -78,7 +78,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
             Padding(
               padding: EdgeInsets.symmetric(vertical: 16.0),
               child: Material(
-                color: Colors.blueAccent,
+                color: Colors.teal,
                 borderRadius: BorderRadius.circular(30.0),
                 elevation: 5.0,
                 child: MaterialButton(
