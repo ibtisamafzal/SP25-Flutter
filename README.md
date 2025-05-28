@@ -82,7 +82,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Using Dio & HTTP Package for API Requests
 
 ### Authentication & Security
-- Firebase Authentication (Email, Google, Facebook, etc.)
+- Firebase Authentication
 - Secure Storage & Token Management
 - Role-based Authorization
 - Encrypted Local Storage
