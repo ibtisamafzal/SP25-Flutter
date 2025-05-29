@@ -1,4 +1,4 @@
-# Flutter Bootcamp - SP25
+# Flutter Bootcamp - Spring 25
 
 Welcome to the Flutter Bootcamp - SP25! This repository is designed to help you master Flutter from the ground up. Whether you’re a beginner or an experienced developer looking to deepen your Flutter knowledge, this Bootcamp will guide you through building high-performance, scalable mobile applications.
 
