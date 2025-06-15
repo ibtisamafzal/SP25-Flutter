@@ -1,4 +1,4 @@
-# Flutter Bootcamp - SP25
+# Flutter Bootcamp - Spring 25
 
 Welcome to the Flutter Bootcamp - SP25! This repository is designed to help you master Flutter from the ground up. Whether you’re a beginner or an experienced developer looking to deepen your Flutter knowledge, this Bootcamp will guide you through building high-performance, scalable mobile applications.
 
@@ -82,7 +82,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Using Dio & HTTP Package for API Requests
 
 ### Authentication & Security
-- Firebase Authentication (Email, Google, Facebook, etc.)
+- Firebase Authentication
 - Secure Storage & Token Management
 - Role-based Authorization
 - Encrypted Local Storage
@@ -110,6 +110,8 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 - Quizzler App
 - BMI Calculator
 - Clima App
+- Firebase Connection (Auth Module)
+- Flash Chat (Real-time Chat App)
 - UI Clones of Popular Apps (Instagram, TikTok, etc.)
 - A Complete E-Commerce App (Firebase Integration)
 - A Chat Application with Firebase & Push Notifications

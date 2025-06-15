@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "809901470151",
+    "firebase_url": "https://caprieasy-f0c52.firebaseio.com",
+    "project_id": "caprieasy-f0c52",
+    "storage_bucket": "caprieasy-f0c52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809901470151:android:3960062da8197025a3e9e2",
+        "android_client_info": {
+          "package_name": "com.example.app_flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrDpnDEzsvowc_wnqK3Vu3JXdHRrccdC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809901470151:android:8a1eafe775fe7dada3e9e2",
+        "android_client_info": {
+          "package_name": "com.jamil.caprieasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrDpnDEzsvowc_wnqK3Vu3JXdHRrccdC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
